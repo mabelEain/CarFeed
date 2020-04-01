@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Car Feed</string>
+    <string name="toolbar_title">Cars</string>
+    <string name="error_text">Check your internet connection!</string>
+</resources>
